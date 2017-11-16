@@ -1,0 +1,5 @@
+# tensorboard log
+log/
+
+# mnist database
+mnist/
